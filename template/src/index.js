@@ -10,8 +10,10 @@ import 'buefy/lib/buefy.css';
 
 import App from './App.vue';
 
-
+{{#buefy}}
 Vue.use(Buefy);
+{{/buefy}}
+
 Vue.use(router);
 
 
