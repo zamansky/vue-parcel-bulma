@@ -15,7 +15,7 @@
 	    "type": "string",
 	    "label": "Author"
 	},
-	"buefy/bulma": {
+	"buefy": {
 	    "type":"confirm",
 	    "Message": "Buefy/bulma?"
 	}
