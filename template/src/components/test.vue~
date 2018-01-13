@@ -1,0 +1,28 @@
+<template>
+
+</template>
+<h1>This is a test</h1>
+
+<script>
+
+ export default {
+   name :'test',
+   data : function(){
+     return {
+       
+     }
+   },
+   methods: {
+
+
+   },
+   components:{
+
+   }
+ }
+ 
+</script>
+
+<style scoped>
+
+</style>
